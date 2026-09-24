@@ -130,6 +130,7 @@ void loop()
 # Observation
 <img width="632" height="925" alt="WhatsApp Image 2026-09-21 at 13 44 27" src="https://github.com/user-attachments/assets/edefe033-d5fe-4449-baf4-7424ad821157" />
 <img width="1141" height="1600" alt="image" src="https://github.com/user-attachments/assets/b6ef2e14-3083-402f-9298-5665ff0c2247" />
+<img width="1152" height="1321" alt="image" src="https://github.com/user-attachments/assets/377192c3-41a2-4b1e-ab4f-0cd179768522" />
 
 
 # Result
